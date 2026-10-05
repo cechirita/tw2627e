@@ -19,7 +19,7 @@ to a find a secret code comprising:
   `https://www.tintin.com/en/characters/?#character`  
   and search for the French name of the character in the text of the accessed web page. (hint: case sensitivity – pay attention to the lower/uppercase!)
 
-4. Add the French name at the end of the address `https://tintin.fandom.com/fr/wiki/`
+4. Add the French name at the end of the address `https://www.tintinpedia.fr/wiki/`
 and run the following three tests for the URL thus obtained:  
 
 a.  
