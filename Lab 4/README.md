@@ -10,7 +10,7 @@
 
 ## page layout example
 
-Download the files `layout.html` and `layout-style.css` from the  `resources` directory. Your main task is to modify these files. Read carefully the files and solve the exercises below, following Felonious Gru's [plan](https://github.com/cechirita/tw2627e/blob/main/Laborator%204/resources/images/minion.jpg).
+Download the files `layout.html` and `layout-style.css` from the  `resources` directory. Your main task is to modify these files. Read carefully the files and solve the exercises below, following Felonious Gru's [plan](https://github.com/cechirita/tw2627e/blob/main/Lab%204/resources/images/minion.jpg).
 
 3. Complete the CSS rules from the file `layout-style.css`, replacing the `?` symbol with appropriate values, such that the page will look like in the image below:
 
